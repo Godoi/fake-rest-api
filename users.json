@@ -1,0 +1,39 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Darth Vader",
+			"username": "vader",
+			"email": "darth.vader@darkside.sith",
+			"password": "palpatine"
+		},
+		{
+			"id": 2,
+			"name": "Darth Sidiou",
+			"username": "darth-sidiou",
+			"email": "darth.sidiou@starwars.com",
+			"password": "darth.sidiou"
+		},
+		{
+			"id": 3,
+			"name": "Leia Organa",
+			"username": "leia-organa",
+			"email": "leia.organa@starwars.com",
+			"password": "leia.organa"
+		},
+		{
+			"id": 4,
+			"name": "Luke Skywalker",
+			"username": "luke-skywalker",
+			"email": "luke-skywalker@starwars.com",
+			"password": "luke.skywalker"
+		},
+		{
+			"id": 5,
+			"name": "Yoda",
+			"username": "yoda",
+			"email": "yoda@starwars.com",
+			"password": "yoda"
+		}
+	]
+}
